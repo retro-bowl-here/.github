@@ -5,7 +5,7 @@
 **Here are some ideas to get you started:**
 
 <h3>
-<a href="https://retrobowl-2.pages.dev">CLICK TO PLAY RETRO BOWL</a> </h3></BR> </BR>
+<a href="https://retrobowl-2.pages.dev">CLICK TO PLAY RETRO BOWL</a> </BR> </BR>
 
 <a href="http://lesson1.site">CLICK TO PLAY RETRO BOWL 2</a>
 
