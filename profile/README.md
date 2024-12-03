@@ -7,7 +7,7 @@
 <h3>
 <a href="https://retrobowl-2.pages.dev">CLICK TO PLAY RETRO BOWL</a> </BR> </BR>
 
-<a href="http://lesson1.site">CLICK TO PLAY RETRO BOWL 2</a>
+<a href="https://lesson1.site">CLICK TO PLAY RETRO BOWL 2</a>
 
   
 </h3>
